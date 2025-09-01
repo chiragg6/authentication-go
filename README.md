@@ -12,6 +12,7 @@
 Sending credentials as user/password pairs
 in an Authorization header field, where the credentials 
 are encoded using base64.
+![Testing basic auth] (/images/basic-auth.svg)
 
 # API Key Authentication -
 Is a unique identifier that an API provider issues
